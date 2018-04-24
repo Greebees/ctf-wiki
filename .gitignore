@@ -1,1 +1,4 @@
-*.php
+_build/
+site/
+.vscode/
+.DS_Store
